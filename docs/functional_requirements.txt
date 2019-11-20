@@ -1,0 +1,10 @@
+Functional requirements
+KIOSK
+- customer can get ticket/token number for certain service type
+
+SYSTEM
+- allow multiple service counters (service counters can have multiple purposes e.g. license plates and food)
+- recall numbers if customer not yet arrived
+
+SCREEN
+- display current ticket/counter where customer should go to
